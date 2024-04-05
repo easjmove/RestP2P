@@ -1,0 +1,6 @@
+@RestP2P_HostAddress = http://localhost:5113
+
+GET {{RestP2P_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
